@@ -10,7 +10,7 @@ Este é um projeto fictício que consiste na criação de um relatório em dashb
 
 ## Problema
 
-![Imagem](img/img.png)
+![Imagem](img/img.jpg)
 
 ## Solução
 
